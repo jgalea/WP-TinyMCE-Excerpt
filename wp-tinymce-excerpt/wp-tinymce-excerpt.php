@@ -2,7 +2,7 @@
     /*
     Plugin Name: WP TinyMCE Excerpt
     Plugin URI: http://www,jeangalea.com
-    Description: Description
+    Description: Adds the TinyMCE rich text editor to the Excerpt box in Add Post and Edit Post screens.
     Version: 1.0
     Author: Jean Galea
     Author URI: http://www.jeangalea.com
@@ -64,3 +64,5 @@
         return nl2br($e);
     }
     add_action( 'excerpt_edit_pre','prepareExcerptForEdit');
+
+?>
