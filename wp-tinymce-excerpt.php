@@ -1,7 +1,7 @@
 <?php
     /*
     Plugin Name: WP TinyMCE Excerpt
-    Plugin URI: http://www,jeangalea.com
+    Plugin URI: http://www.jeangalea.com
     Description: Adds the TinyMCE rich text editor to the Excerpt box in Add Post and Edit Post screens.
     Version: 1.0
     Author: Jean Galea
